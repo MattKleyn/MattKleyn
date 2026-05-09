@@ -1,5 +1,6 @@
-##Hey howzit
-My name is Matthew and here is a little about me.
+## Hey howzit
+* My name is Matthew and here is a little about me. *
+Also, you can see my portfolio here: https://mattkleyn.github.io/Portfolio-V2/
 
 
 ## Lore:
@@ -22,7 +23,7 @@ My name is Matthew and here is a little about me.
 
 ## What I'm working on:
   - Professional Portfolio V 2.0 - A complete redesign of my portfolio and migration to React, including the consumption of the Mattkleyn component library project.
-  -  Mattkleyn Component Library - A lightweight, un-opinionated React component library that is under active development. I also published the current version on NPM under the same name.
+  - Mattkleyn Component Library - A lightweight, un-opinionated React component library that is under active development. I also published the current version on NPM under the same name.
   - JoSe - MVP phase, python powered ETL pipeline that scrapes job posting boards and filters for relevancy, persisting only accepted posts to a SQL database.
   
   - Reach out via Github or LinkendIn if you would like to review any of my code or help out with mentorship, I would appreciate it.
@@ -37,7 +38,6 @@ My name is Matthew and here is a little about me.
   - Mattkleyn Component Library - A lightweight React component library and design system including motion components.
   - JoSe: Job Search Automatron - a Python based ETL pipeline that scrapes job sites and saves relavent jobs to a PostgreSQL DB. 
   - Dev Frog Blog - a full-stack blog platform with dynamic server side rendering, full CRUD functionality and data persistance, secure user profiles, user authentication, OAuth, and sessions.
-  - Portfolio Site (V1) - a static multi-page website to display my stuff, currently going through a redesign and overhaul, https://mattkleyn.github.io/portfolio-site
 
 
 ## Future plans:
